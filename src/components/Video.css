@@ -1,0 +1,9 @@
+.pic{
+    width: 220px;
+    height: 250px;
+}
+
+.dark{
+    background-color: red;
+    color: white;
+}
