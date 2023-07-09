@@ -1,7 +1,8 @@
 import './Video.css';
 
-export function Video( title , bgColor)
+export function Video( title , bgColor , props)
 {
+    console.log(props);
     let Bg = 'dark';
     let Topic = 'React Js';
     return (
